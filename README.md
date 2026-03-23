@@ -8,3 +8,6 @@ This project analyzes procurement and shipment data for 10,324 orders, covering 
 ## Dataset
 - **Total Records:** 10,324  
 - **Columns:** 33  
+
+- **Key Columns:** Project Code, PQ #, PO / SO #, ASN/DN #, Country, Vendor, Shipment Mode, Scheduled & Delivered Dates, Product Group, Line Item Quantity, Line Item Value, Freight & Insurance Cost.  
+
